@@ -10,5 +10,5 @@ public class CarApplicationController {
 	public String getDetails() {
 		return "returning car details";
 	}
-	
+	     
 }
